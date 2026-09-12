@@ -1,0 +1,34 @@
+## Gizlilik Politikası ve Kapsamı
+
+Son Güncelleme Tarihi: **12.09.2026**
+
+**[Uygulama veya Oyun Adı]** ("biz", "bizim" veya "bize") olarak kullanıcılarımızın gizliliğine büyük önem veriyoruz. Bu metin, mobil uygulamamızı kullandığınızda bilgilerinizi nasıl topladığımızı, işlediğimizi ve koruduğumuzu açıklar. Uygulamayı kullanarak bu politikada belirtilen veri uygulamalarını kabul etmiş olursunuz.
+
+## Toplanan Veriler ve Kullanım Amaçları
+
+Projenin temel işlevlerini sağlamak ve performansı optimize etmek amacıyla aşağıdaki veriler toplanabilir ve kullanılabilir:
+
+* **Cihaz ve Sistem Bilgileri:** Cihaz modeli, işletim sistemi sürümü ve benzersiz cihaz tanımlayıcıları.
+* **Kullanım Metrikleri:** Uygulama içi menü etkileşimleri, render süreleri, çökme (crash) raporları ve genel hata günlükleri.
+* **Gönüllü Paylaşılan Veriler:** Yalnızca hesap oluşturma veya geri bildirim sağlama amacıyla kendi isteğinizle girdiğiniz bilgiler (örn. e-posta adresi veya kullanıcı adı).
+
+Bu veriler tamamen sistem mimarisini iyileştirmek, hataları gidermek, yerel veritabanı senkronizasyonunu sağlamak ve kullanıcı deneyimini daha akıcı hale getirmek için kullanılır.
+
+## Üçüncü Taraf Paylaşımları
+
+Kullanıcı verileri, yasal bir zorunluluk olmadığı sürece dış şirketlere satılmaz veya kiralanmaz. Ancak uygulamanın işleyişi ve analizi için aşağıdaki gibi güvenilir üçüncü taraf servis sağlayıcılarından destek alınabilir:
+
+* **[Kullanılan Servis 1: Örn. Google Play Services]**
+* **[Kullanılan Servis 2: Örn. Firebase Analytics]**
+
+Bu sağlayıcıların veri işleme süreçleri kendi gizlilik politikalarına tabidir.
+
+## Kullanıcı Hakları ve İletişim
+
+Kullanıcılar, kişisel verilerinin silinmesini, güncellenmesini veya bu verilere erişimi talep etme hakkına sahiptir. Gizlilik politikamızla veya verilerinizin işlenmesiyle ilgili herhangi bir sorunuz, öneriniz veya teknik talebiniz varsa lütfen bizimle iletişime geçin:
+
+**[İletişim E-posta Adresiniz]**
+
+---
+
+Bu taslağı şu anda üzerinde çalıştığın eğitim odaklı matematik uygulamasına göre mi, yoksa geliştirdiğin voxel tabanlı oyun motoruna uygun olacak şekilde mi daha detaylı hale getirelim?
